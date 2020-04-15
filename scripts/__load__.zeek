@@ -1,0 +1,1 @@
+@load ./game-of-life
